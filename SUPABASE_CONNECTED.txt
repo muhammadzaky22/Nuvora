@@ -1,0 +1,26 @@
+NUVORA v0.7 — SUPABASE CONNECTED
+
+Project Ref:
+givfuaphcjyvvumztdcl
+
+Project URL:
+https://givfuaphcjyvvumztdcl.supabase.co
+
+Status:
+- Supabase URL sudah dimasukkan.
+- Publishable key sudah dimasukkan.
+- Secret key / service_role TIDAK digunakan.
+- GitHub Pages dan Android build tetap dapat memakai environment variables jika nanti ingin override.
+
+LANGKAH BERIKUTNYA:
+1. Masuk ke project Supabase Nuvora.
+2. Buka SQL Editor.
+3. Klik New query.
+4. Copy seluruh isi file:
+   supabase/schema.sql
+5. Paste ke SQL Editor.
+6. Tekan Run.
+7. Jika muncul Success, kirim screenshot hasilnya ke ChatGPT.
+
+Jangan jalankan migration_v07.sql untuk fresh database.
+Untuk database baru, cukup jalankan schema.sql.
